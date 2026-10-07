@@ -3,7 +3,7 @@ This is a place to store all of the Python projects I made during the Intermedia
 
 The Intermediate+ stage includes days 32 to 40 inclusive and days 45 to 57 inclusive and follow the '100 Days of Code™: The Complete Python Pro Bootcamp' available on Udemy 
 
-You can find a post about the previous days on my [dev.to account](https://dev.to/hirave_palak).
+You can find posts about the previous days on my [dev.to account](https://dev.to/hirave_palak).
 
 ## Days Breakdown 
 Day 32 - SMTP Monday Motivation & Birthday Wisher 
