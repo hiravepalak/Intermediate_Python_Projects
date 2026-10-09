@@ -1,0 +1,18 @@
+Type Hints
+
+def age_limit(age: int) -> bool:
+    if age_limit > 15:
+        return true
+    else:
+        return false
+
+Can help to predefine the data type for a variable before you use it
+Pycharm highlights the text if you insert the wrong data type
+        E.g. age: int
+             age = "12"
+
+        -> in this case age would be highlighted
+
+'->' can tell you what data type is supposed to be the result from the function
+
+Helps with debugging
