@@ -15,7 +15,8 @@ Day 33 - API Day 33\
 &emsp;Routes emails to port 1025, so you will have to plug this cmd or a similar variant : py -m aiosmtpd -n -l localhost:1025
 
 Day 34 - Trivia App\
-&emsp;Basic GUI interface, contains 50 questions\
+&emsp;Basic GUI interface\
+&emsp;Contains 50 questions\
 &emsp;Linked to API in so you can modify the question set on the website\
 &emsp;Includes some notes
 
