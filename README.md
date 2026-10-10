@@ -24,4 +24,8 @@ Day 35 - SMS Rain Checker\
 &emsp;Sends you an SMS if there is a chance of rain in your area in the next 12 hrs\
 &emsp;Uses 2 free APIs: [SMS Sandbox](https://od2.in/sms-sandbox) & [weather](https://openweathermap.org/api/forecast5)\
 &emsp;The phone numbers are fake\
-&emsp;API key is deactiviated and was for a free trial account so do feel free to waste your time trying to use it 
+&emsp;API key is deactiviated and was for a free trial account so just don't bother with it
+
+Day 36 - Stocks & News\
+&emsp;Sends you an SMS if TSLA's stocks increased/decreased by 5%\
+&emsp;SMS includes the percentage change alongsdie 3 of the latest news headlines and their contents relating to that stock
