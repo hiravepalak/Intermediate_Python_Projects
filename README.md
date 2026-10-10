@@ -15,4 +15,12 @@ Day 33 - API Day 33\
 &emsp;Routes emails to port 1025, so you will have to plug this cmd or a similar variant : py -m aiosmtpd -n -l localhost:1025
 
 Day 34 - Trivia App\
-&emsp;Basic GUI interface, contains 50 questions, linked to API in so you can modify the question set on the website, includes some notes
+&emsp;Basic GUI interface, contains 50 questions\
+&emsp;Linked to API in so you can modify the question set on the website\
+&emsp;Includes some notes
+
+Day 35 - SMS Rain Checker\
+&emsp;Sends you an SMS if there is a chance of rain in your area in the next 12 hrs\
+&emsp;Uses 2 free APIs: [SMS Sandbox](https://od2.in/sms-sandbox) & [weather](https://openweathermap.org/api/forecast5)\
+&emsp;The phone numbers are fake\
+&emsp;API key is deactiviated and was for a free trial account so do feel free to waste your time trying to use it 
