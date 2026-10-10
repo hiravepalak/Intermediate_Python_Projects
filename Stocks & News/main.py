@@ -27,7 +27,7 @@ percentage_difference = (positive_difference/average)*100
 
 actual_diff = float(yesterday_price) - float(day_before_yesterday_price)
 
-if percentage_difference > 1:
+if percentage_difference > 5:
 
     news_params = {'language': 'en',
                     'sortBY': 'publishedAt',
