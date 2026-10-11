@@ -30,3 +30,7 @@ Day 36 - Stocks & News\
 &emsp;Sends you an SMS if TSLA's stocks increased/decreased by 5%\
 &emsp;SMS includes the percentage change alongsdie 3 of the latest news headlines and their contents relating to that stock\
 &emsp;APIs used: [Stocks](https://www.alphavantage.co/documentation/) & [News](https://newsapi.org/)
+
+Day 37 - Habit Tracker\
+&emsp;Creates a [Pixela](https://pixe.la/) habit tracker\
+&emsp;Includes code for: creating an account, creating a graph, and adding a pixel to graph 
