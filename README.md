@@ -17,7 +17,7 @@ Day 33 - API Day 33\
 Day 34 - Trivia App\
 &emsp;Basic GUI interface\
 &emsp;Contains 50 questions\
-&emsp;Linked to API in so you can modify the question set on the website\
+&emsp;API source link included so you can modify the question set on the website\
 &emsp;Includes some notes
 
 Day 35 - SMS Rain Checker\
