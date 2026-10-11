@@ -34,3 +34,8 @@ Day 36 - Stocks & News\
 Day 37 - Habit Tracker\
 &emsp;Creates a [Pixela](https://pixe.la/) habit tracker\
 &emsp;Includes code for: creating an account, creating a graph, and adding a pixel to graph 
+
+Day 38 - Workout Tracking with Google Sheets\
+&emsp;Input what workout you did and for how long in plain, boring english\
+&emsp;Gets added to a Google Sheets that you pre-make\
+&emsp;APIs : [Sheety](https://sheety.co/) & [this one](https://app.100daysofpython.dev/services/nutrition/docs)
