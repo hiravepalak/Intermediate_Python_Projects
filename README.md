@@ -40,5 +40,11 @@ Day 38 - Workout Tracking with Google Sheets\
 &emsp;Gets added to a Google Sheets that you pre-make\
 &emsp;APIs : [Sheety](https://sheety.co/) & [this one](https://app.100daysofpython.dev/services/nutrition/docs)
 
-Day 39 & 40 - Cheap Flight Finder\
+Days 39 & 40 - Cheap Flight Finder\
 &emsp;Collects your name and email via Google Forms, then sends you a notification whenever a cheap flight is a available for a destination 
+
+Days 41 to 44 - Web Development\
+&emsp;Contains individual folders for each of the days\
+&emsp;Each day teaches a few HTML or CSS concepts\
+&emsp;There are exercieses for each concept as well as the solution\
+&emsp;You can dowload and try them out yourself
