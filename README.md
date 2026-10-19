@@ -48,3 +48,7 @@ Days 41 to 44 - Web Development\
 &emsp;Each day teaches a few HTML or CSS concepts\
 &emsp;There are exercieses for each concept as well as the solution\
 &emsp;You can dowload and try them out yourself
+
+Day 45 - 100 Movies to Watch\
+&emsp;Scrapes a website using BeautifulSoup and then outputs that as a .txt file\
+&emsp;In this case it scrapes a website to get a list of the top 100 Moives of that year
