@@ -52,3 +52,8 @@ Days 41 to 44 - Web Development\
 Day 45 - 100 Movies to Watch\
 &emsp;Scrapes a website using BeautifulSoup and then outputs that as a .txt file\
 &emsp;In this case it scrapes a website to get a list of the top 100 Moives of that year
+
+Day 46 - Musical Time Machine\
+&emsp;Input a date and it then scrapes a website and gets the top 100 songs trending that week\
+&emsp;It then creates a YouTube Music playlist and adds each of the songs in that trending list\
+&emsp;Aside from typing the date, the rest is fully automated 
