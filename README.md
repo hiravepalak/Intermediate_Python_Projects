@@ -58,4 +58,6 @@ Day 46 - Musical Time Machine\
 &emsp;It then creates a YouTube Music playlist and adds each of the songs in that trending list\
 &emsp;Aside from typing the date, the rest is fully automated 
 
-
+Day 47 - Automated Amazon Price Tracker\
+&emsp;Finds the price of a product on Amazon\
+&emsp;If price is lower than your set boundary it sends you an SMS
