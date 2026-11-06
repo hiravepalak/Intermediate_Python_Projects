@@ -58,4 +58,4 @@ Day 46 - Musical Time Machine\
 &emsp;It then creates a YouTube Music playlist and adds each of the songs in that trending list\
 &emsp;Aside from typing the date, the rest is fully automated 
 
-NOTE - I am discontinuing this repository as you can already find plently of resources to this course online, and I plan on speedrunning the rest of the days so that I can continue with other projects, meaning that I will not write the code for all of the topics by scratch, rather just understand the source code and foucs on mentally mapping out each project than writing it. 
+
