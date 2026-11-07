@@ -63,7 +63,7 @@ Day 47 - Automated Amazon Price Tracker\
 &emsp;If price is lower than your set boundary it sends you an SMS
 
 Day 48 - Cookie Clicker\
-&emsp;Aggressively clicks cookies on [this](https://ozh.github.io/cookieclicker/) website 
-&emsp;Upgrades as it goes 
-&emsp;Fully automated 
+&emsp;Aggressively clicks cookies on [this](https://ozh.github.io/cookieclicker/) website\
+&emsp;Upgrades as it goes\
+&emsp;Fully automated\
 &emsp;Beware of cookies 
