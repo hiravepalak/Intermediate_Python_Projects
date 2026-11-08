@@ -67,3 +67,9 @@ Day 48 - Cookie Clicker\
 &emsp;Upgrades as it goes\
 &emsp;Fully automated\
 &emsp;Beware of cookies 
+
+Day 49 - Book Exersise Classes\
+&emsp;Automatically books gym classes for given dates & times\
+&emsp;Note that you first have to create a login on the website it opens before it can do so later\
+&emsp;&emsp;name@test.com, any passoword, any name
+
